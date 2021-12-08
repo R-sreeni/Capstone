@@ -1,0 +1,25 @@
+ReadMe
+
+Hello, Reader! This is a readme file for Roshini Sreenivas's capstone project that was submitted for BrainStation's Data Science bootcamp September-December 2021. It will serve as a quick guide for how to navigate the documents in the folder. 
+
+The focus on this project was to use a time series analysis to forecast when the Yield for a crop tends to zero based on Environmental Stress data like Emissions and Sea level rise. 
+
+The Rsreeni_Capstone folder contains the following:
+
+- 1 readme file
+- 1 folder titled "CapstoneData" that contains:
+	- 5 CSV files containing all the different data sets I've downloaded for the purpose of this analysis
+	- 1 CSV file called df2_banana-cleaned to use in the Tableau workbook 
+- 1 Jupyter Notebook, the code from the beginning to the end
+- 1 Technical Summary Report in PDF format
+- 1 Tableau Workbook that contains all the visuals built for analysis and the dashboard
+
+PLEASE NOTE: The Tableau workbook should only be opened after you've run the Jupyter notebooks till the file is exported to work on Tableau. I have also included this cleaned notebook with the CSVs. Its called df2_banana-cleaned. 
+
+NOTE ALSO THAT: The Jupyter Notebook takes about 20 minutes to run from top to bottom on my machine. 
+
+All files in this notebook can be run in the base anaconda environment (Python 3 kernel).
+
+If you are having trouble accessing any of the files within this folder please contact Roshini Sreenivas at rosh.2992@gmail.com. 
+
+Thank you for your attention! You may now proceed to the notebook! 
